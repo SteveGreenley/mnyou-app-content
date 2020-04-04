@@ -1,0 +1,12 @@
+{
+  "menuWebContent": [
+    {
+      "title": "Help",
+      "url": "https://stevegreenley.github.io/mnyou-app-content/prod/help.html"
+    },
+    {
+      "title": "About",
+      "url": "https://stevegreenley.github.io/mnyou-app-content/prod/about.html"
+    }
+  ]
+}
