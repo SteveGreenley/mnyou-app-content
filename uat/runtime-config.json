@@ -1,12 +1,14 @@
+{
+  "data": [
+    {
+      "title": "Help",
+      "url": "https://stevegreenley.github.io/mnyou-app-content/uat/help.html"
+    },
+    {
+      "title": "About",
+      "url": "https://stevegreenley.github.io/mnyou-app-content/uat/about.html"
+    }
+  ]
+}
 
-[
-  {
-    "title": "Help",
-    "url": "https://stevegreenley.github.io/mnyou-app-content/uat/help.html"
-  },
-  {
-    "title": "About",
-    "url": "https://stevegreenley.github.io/mnyou-app-content/uat/about.html"
-  }
-]
 
